@@ -15,7 +15,7 @@ void funct(int* a, int n){
 
 int main(int argc, char const *argv[]){
 
-    cout<<"kurnia";
+    cout<<"kurnia bau"<<endl;
     return 0;
 }
 
